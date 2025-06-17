@@ -24,6 +24,6 @@ A lightweight, standalone FiveM script that lets players check their current **c
 
 ### 🔧 Configuration
 
-- All currency types are defined in `config.lua`:
+- All currency types are defined in `config.lua`.
 
 <h6 align="center"><strong>© 2025 AfterDeath Studios. All rights reserved.<strong></h6>
